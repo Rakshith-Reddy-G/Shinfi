@@ -120,7 +120,7 @@ Products and categories are fetched dynamically from the API.
 
 ## Authentication Flow ##
 
-** The application includes a frontend authentication system: **
+##### The application includes a frontend authentication system:####
 
 * User logs in through Login Page
 * Fake token is generated
