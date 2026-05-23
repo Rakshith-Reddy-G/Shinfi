@@ -226,5 +226,4 @@ Assumptions Made
 
 ## Rakshith Reddy Gaddam ##
 
-# Shinfi – Modern Minimal E-Commerce Experience #
-https://github.com/Rakshith-Reddy-G/Shinfi/issues/1
+## Shinfi – Modern Minimal E-Commerce Experience ##
